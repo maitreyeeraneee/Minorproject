@@ -1,0 +1,52 @@
+Food,Calories,Protein,Carbs,Fat,Fiber,Vitamin_C,Iron,Cost,Prep_Time,Cuisine,Allergens
+Apple,95,0.5,25,0.3,4.4,8.4,0.2,0.5,5,General,None
+Banana,105,1.3,27,0.4,3.1,10.3,0.3,0.3,2,General,None
+Chicken Breast,165,31,0,3.6,0,0,1.3,2.5,15,American,None
+Salmon,206,22,0,13,0,0,0.3,4.0,20,American,Fish
+Brown Rice,216,5,45,1.8,3.5,0,0.8,0.8,25,Asian,None
+Broccoli,55,3.7,11.2,0.6,5.1,89.2,0.7,1.2,10,General,None
+Spinach,23,2.9,3.6,0.4,2.2,28.1,2.7,1.0,5,General,None
+Egg,78,6.3,0.6,5.3,0,0,0.9,0.2,5,General,None
+Almonds,164,6,6,14,3.5,0,1,3.0,2,General,Nuts
+Milk,103,8,12,2.4,0,0,0,0.8,1,General,Dairy
+Oatmeal,150,5,27,2.5,4,0,1.2,0.5,10,General,None
+Sweet Potato,112,2,26,0.1,3.8,19.6,0.6,0.7,15,General,None
+Quinoa,222,8,39,3.6,5.2,0,1.5,2.0,20,General,None
+Greek Yogurt,100,10,6,0,0,0,0,1.5,2,General,Dairy
+Avocado,234,2.9,12.8,21.4,10.3,10,0.6,2.0,5,General,None
+Tomato,22,1.1,4.8,0.2,1.4,14,0.3,0.8,5,General,None
+Carrot,41,0.9,9.6,0.2,2.8,5.9,0.3,0.4,5,General,None
+Beef,250,26,0,17,0,0,2.6,3.5,20,American,None
+Tuna,144,32,0,1.3,0,0,0.6,2.0,10,American,Fish
+Potato,77,2,17,0.1,2.2,19.7,0.5,0.3,20,General,None
+Strawberries,49,1,11.7,0.5,3,58.8,0.4,2.5,5,General,None
+Blueberries,57,0.7,14.5,0.3,2.4,9.7,0.3,3.0,2,General,None
+Orange,62,1.2,15.4,0.2,3.1,53.2,0.1,0.6,5,General,None
+Grapes,69,0.7,18,0.2,0.9,3.2,0.1,1.8,2,General,None
+Peanut Butter,188,7.7,6,16,2.6,0,0.6,1.2,2,General,Nuts
+Cheese,113,7,0.4,9.4,0,0,0.2,1.5,2,General,Dairy
+Bread,79,2.7,15.2,1,1.6,0,0.9,0.8,5,General,Gluten
+Pasta,157,5.8,31,0.9,2.4,0,0.5,1.0,15,Italian,Gluten
+Rice,130,2.7,28,0.3,0.4,0,0.2,0.6,20,Asian,None
+Lentils,116,9,20,0.4,7.9,0,2,0.8,30,Indian,None
+Chickpeas,286,15,45,6,12.5,0,4.7,1.2,45,Indian,None
+Soybeans,173,16.6,9.9,9,6,0,5.1,1.5,40,Asian,None
+Tofu,76,8,1.9,4.8,0.3,0,1.8,1.8,10,Asian,Soy
+Tempeh,193,19,9,11,0,0,2.7,2.5,15,Asian,Soy
+Seitan,370,75,14,2,0,0,5.8,3.0,20,General,Gluten
+Kale,49,4.3,8.8,0.9,3.6,120,1.5,1.5,10,General,None
+Lettuce,15,1.4,2.9,0.2,1.3,9.2,0.4,0.8,5,General,None
+Cucumber,16,0.7,3.6,0.1,0.5,2.8,0.2,0.5,5,General,None
+Bell Pepper,24,0.9,6,0.3,2.5,127.7,0.3,1.0,5,General,None
+Onion,40,1.1,9.3,0.1,1.7,7.4,0.2,0.4,5,General,None
+Garlic,149,6.4,33,0.5,2.1,31.2,1.7,0.3,5,General,None
+Ginger,80,1.8,17.8,0.8,2,5,0.6,0.8,5,Asian,None
+Turmeric,312,7.8,67.1,9.9,22.7,0.7,41.4,2.0,5,Indian,None
+Cinnamon,247,4,80.6,1.2,53.1,3.8,11.6,1.5,2,General,None
+Honey,304,0.3,82.4,0,0.2,0.5,0.4,3.0,1,General,None
+Maple Syrup,260,0,67,0,0,0,0.1,4.0,1,General,None
+Olive Oil,119,0,0,13.5,0,0,0,2.5,1,General,None
+Coconut Oil,117,0,0,13.5,0,0,0,3.0,1,General,None
+Butter,102,0.1,0,11.5,0,0,0,1.8,1,General,Dairy
+Yogurt,61,3.5,4.7,3.3,0,0,0,0.6,2,General,Dairy
+Cottage Cheese,98,11.1,3.4,4.3,0,0,0.2,1.2,2,General,Dairy
