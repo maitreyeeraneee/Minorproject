@@ -1,0 +1,146 @@
+food,category,meal_types,unit_options,default_portion_size,kcal,protein,carbs,fat,health_score
+Apple,fruit,"['Breakfast', 'Snack']","['Breakfast', 'Snack']",1 piece,95,0.5,25.0,0.3,light
+Banana,fruit,"['Breakfast', 'Snack']","['Breakfast', 'Snack']",1 piece,105,1.3,27.0,0.4,moderate
+Chicken Breast,other,"['Breakfast', 'Lunch', 'Dinner', 'Snack']","['Breakfast', 'Lunch', 'Dinner', 'Snack']",100g,165,31.0,0.0,3.6,moderate
+Salmon,other,"['Breakfast', 'Lunch', 'Dinner', 'Snack']","['Breakfast', 'Lunch', 'Dinner', 'Snack']",100g,206,22.0,0.0,13.0,moderate
+Brown Rice,grain,"['Breakfast', 'Lunch', 'Dinner']","['Breakfast', 'Lunch', 'Dinner']",100g,216,5.0,45.0,1.8,moderate
+Broccoli,veg,"['Lunch', 'Dinner', 'Snack']","['Lunch', 'Dinner', 'Snack']",100g,55,3.7,11.2,0.6,light
+Spinach,veg,"['Lunch', 'Dinner', 'Snack']","['Lunch', 'Dinner', 'Snack']",100g,23,2.9,3.6,0.4,light
+Egg,other,"['Breakfast', 'Lunch', 'Dinner', 'Snack']","['Breakfast', 'Lunch', 'Dinner', 'Snack']",1 piece,78,6.3,0.6,5.3,light
+Almonds,other,"['Breakfast', 'Lunch', 'Dinner', 'Snack']","['Breakfast', 'Lunch', 'Dinner', 'Snack']",100g,164,6.0,6.0,14.0,moderate
+Milk,other,"['Breakfast', 'Lunch', 'Dinner', 'Snack']","['Breakfast', 'Lunch', 'Dinner', 'Snack']",1 cup,103,8.0,12.0,2.4,moderate
+Oatmeal,grain,"['Breakfast', 'Lunch', 'Dinner']","['Breakfast', 'Lunch', 'Dinner']",100g,150,5.0,27.0,2.5,moderate
+Sweet Potato,veg,"['Lunch', 'Dinner', 'Snack']","['Lunch', 'Dinner', 'Snack']",100g,112,2.0,26.0,0.1,moderate
+Quinoa,grain,"['Breakfast', 'Lunch', 'Dinner']","['Breakfast', 'Lunch', 'Dinner']",100g,222,8.0,39.0,3.6,moderate
+Greek Yogurt,other,"['Breakfast', 'Lunch', 'Dinner', 'Snack']","['Breakfast', 'Lunch', 'Dinner', 'Snack']",250ml,100,10.0,6.0,0.0,light
+Avocado,fruit,"['Breakfast', 'Snack']","['Breakfast', 'Snack']",1 piece,234,2.9,12.8,21.4,moderate
+Tomato,veg,"['Lunch', 'Dinner', 'Snack']","['Lunch', 'Dinner', 'Snack']",100g,22,1.1,4.8,0.2,light
+Carrot,veg,"['Lunch', 'Dinner', 'Snack']","['Lunch', 'Dinner', 'Snack']",100g,41,0.9,9.6,0.2,light
+Beef,other,"['Breakfast', 'Lunch', 'Dinner', 'Snack']","['Breakfast', 'Lunch', 'Dinner', 'Snack']",100g,250,26.0,0.0,17.0,moderate
+Tuna,other,"['Breakfast', 'Lunch', 'Dinner', 'Snack']","['Breakfast', 'Lunch', 'Dinner', 'Snack']",100g,144,32.0,0.0,1.3,moderate
+Potato,veg,"['Lunch', 'Dinner', 'Snack']","['Lunch', 'Dinner', 'Snack']",100g,77,2.0,17.0,0.1,light
+Strawberries,fruit,"['Breakfast', 'Snack']","['Breakfast', 'Snack']",100g,49,1.0,11.7,0.5,light
+Blueberries,fruit,"['Breakfast', 'Snack']","['Breakfast', 'Snack']",100g,57,0.7,14.5,0.3,light
+Orange,fruit,"['Breakfast', 'Snack']","['Breakfast', 'Snack']",1 piece,62,1.2,15.4,0.2,light
+Grapes,fruit,"['Breakfast', 'Snack']","['Breakfast', 'Snack']",100g,69,0.7,18.0,0.2,light
+Peanut Butter,other,"['Breakfast', 'Lunch', 'Dinner', 'Snack']","['Breakfast', 'Lunch', 'Dinner', 'Snack']",100g,188,7.7,6.0,16.0,moderate
+Cheese,other,"['Breakfast', 'Lunch', 'Dinner', 'Snack']","['Breakfast', 'Lunch', 'Dinner', 'Snack']",100g,113,7.0,0.4,9.4,moderate
+Bread,grain,"['Breakfast', 'Lunch', 'Dinner']","['Breakfast', 'Lunch', 'Dinner']",1 piece,79,2.7,15.2,1.0,light
+Pasta,grain,"['Breakfast', 'Lunch', 'Dinner']","['Breakfast', 'Lunch', 'Dinner']",100g,157,5.8,31.0,0.9,moderate
+Rice,grain,"['Breakfast', 'Lunch', 'Dinner']","['Breakfast', 'Lunch', 'Dinner']",100g,130,2.7,28.0,0.3,moderate
+Lentils,other,"['Breakfast', 'Lunch', 'Dinner', 'Snack']","['Breakfast', 'Lunch', 'Dinner', 'Snack']",100g,116,9.0,20.0,0.4,moderate
+Chickpeas,other,"['Breakfast', 'Lunch', 'Dinner', 'Snack']","['Breakfast', 'Lunch', 'Dinner', 'Snack']",100g,286,15.0,45.0,6.0,moderate
+Soybeans,other,"['Breakfast', 'Lunch', 'Dinner', 'Snack']","['Breakfast', 'Lunch', 'Dinner', 'Snack']",100g,173,16.6,9.9,9.0,moderate
+Tofu,other,"['Breakfast', 'Lunch', 'Dinner', 'Snack']","['Breakfast', 'Lunch', 'Dinner', 'Snack']",100g,76,8.0,1.9,4.8,light
+Tempeh,other,"['Breakfast', 'Lunch', 'Dinner', 'Snack']","['Breakfast', 'Lunch', 'Dinner', 'Snack']",100g,193,19.0,9.0,11.0,moderate
+Seitan,other,"['Breakfast', 'Lunch', 'Dinner', 'Snack']","['Breakfast', 'Lunch', 'Dinner', 'Snack']",100g,370,75.0,14.0,2.0,heavy
+Kale,veg,"['Lunch', 'Dinner', 'Snack']","['Lunch', 'Dinner', 'Snack']",100g,49,4.3,8.8,0.9,light
+Lettuce,veg,"['Lunch', 'Dinner', 'Snack']","['Lunch', 'Dinner', 'Snack']",100g,15,1.4,2.9,0.2,light
+Cucumber,veg,"['Lunch', 'Dinner', 'Snack']","['Lunch', 'Dinner', 'Snack']",100g,16,0.7,3.6,0.1,light
+Bell Pepper,veg,"['Lunch', 'Dinner', 'Snack']","['Lunch', 'Dinner', 'Snack']",100g,24,0.9,6.0,0.3,light
+Onion,veg,"['Lunch', 'Dinner', 'Snack']","['Lunch', 'Dinner', 'Snack']",100g,40,1.1,9.3,0.1,light
+Garlic,veg,"['Lunch', 'Dinner', 'Snack']","['Lunch', 'Dinner', 'Snack']",100g,149,6.4,33.0,0.5,moderate
+Ginger,veg,"['Lunch', 'Dinner', 'Snack']","['Lunch', 'Dinner', 'Snack']",100g,80,1.8,17.8,0.8,light
+Turmeric,other,"['Breakfast', 'Lunch', 'Dinner', 'Snack']","['Breakfast', 'Lunch', 'Dinner', 'Snack']",100g,312,7.8,67.1,9.9,heavy
+Cinnamon,other,"['Breakfast', 'Lunch', 'Dinner', 'Snack']","['Breakfast', 'Lunch', 'Dinner', 'Snack']",100g,247,4.0,80.6,1.2,moderate
+Honey,other,"['Breakfast', 'Lunch', 'Dinner', 'Snack']","['Breakfast', 'Lunch', 'Dinner', 'Snack']",100g,304,0.3,82.4,0.0,heavy
+Maple Syrup,other,"['Breakfast', 'Lunch', 'Dinner', 'Snack']","['Breakfast', 'Lunch', 'Dinner', 'Snack']",100g,260,0.0,67.0,0.0,moderate
+Olive Oil,other,"['Breakfast', 'Lunch', 'Dinner', 'Snack']","['Breakfast', 'Lunch', 'Dinner', 'Snack']",100g,119,0.0,0.0,13.5,moderate
+Coconut Oil,other,"['Breakfast', 'Lunch', 'Dinner', 'Snack']","['Breakfast', 'Lunch', 'Dinner', 'Snack']",100g,117,0.0,0.0,13.5,moderate
+Butter,other,"['Breakfast', 'Lunch', 'Dinner', 'Snack']","['Breakfast', 'Lunch', 'Dinner', 'Snack']",100g,102,0.1,0.0,11.5,moderate
+Yogurt,other,"['Breakfast', 'Lunch', 'Dinner', 'Snack']","['Breakfast', 'Lunch', 'Dinner', 'Snack']",250ml,61,3.5,4.7,3.3,light
+Cottage Cheese,other,"['Breakfast', 'Lunch', 'Dinner', 'Snack']","['Breakfast', 'Lunch', 'Dinner', 'Snack']",250ml,98,11.1,3.4,4.3,light
+Roti,grain,"['Breakfast', 'Lunch', 'Dinner']","['Breakfast', 'Lunch', 'Dinner']",1 piece,297,12.6,56.0,3.7,moderate
+Chapati,grain,"['Breakfast', 'Lunch', 'Dinner']","['Breakfast', 'Lunch', 'Dinner']",1 piece,297,12.6,56.0,3.7,moderate
+Dal,other,"['Breakfast', 'Lunch', 'Dinner', 'Snack']","['Breakfast', 'Lunch', 'Dinner', 'Snack']",100g,116,9.0,20.0,0.4,moderate
+Dal Tadka,other,"['Breakfast', 'Lunch', 'Dinner', 'Snack']","['Breakfast', 'Lunch', 'Dinner', 'Snack']",100g,130,10.5,22.0,2.5,moderate
+Chana Masala,other,"['Breakfast', 'Lunch', 'Dinner', 'Snack']","['Breakfast', 'Lunch', 'Dinner', 'Snack']",100g,164,7.6,27.0,4.5,moderate
+Rajma,other,"['Breakfast', 'Lunch', 'Dinner', 'Snack']","['Breakfast', 'Lunch', 'Dinner', 'Snack']",100g,127,7.5,23.0,1.2,moderate
+Paneer,other,"['Breakfast', 'Lunch', 'Dinner', 'Snack']","['Breakfast', 'Lunch', 'Dinner', 'Snack']",100g,265,18.3,3.4,20.8,moderate
+Paneer Butter Masala,other,"['Breakfast', 'Lunch', 'Dinner', 'Snack']","['Breakfast', 'Lunch', 'Dinner', 'Snack']",250ml,198,14.1,8.2,14.5,moderate
+Aloo Gobi,veg,"['Lunch', 'Dinner', 'Snack']","['Lunch', 'Dinner', 'Snack']",100g,87,2.5,18.0,1.8,light
+Bhindi Masala,veg,"['Lunch', 'Dinner', 'Snack']","['Lunch', 'Dinner', 'Snack']",100g,49,1.9,9.2,1.2,light
+Palak Paneer,other,"['Breakfast', 'Lunch', 'Dinner', 'Snack']","['Breakfast', 'Lunch', 'Dinner', 'Snack']",250ml,180,11.2,6.8,13.2,moderate
+Baingan Bharta,veg,"['Lunch', 'Dinner', 'Snack']","['Lunch', 'Dinner', 'Snack']",100g,87,1.7,12.5,4.2,light
+Mixed Vegetable Curry,veg,"['Lunch', 'Dinner', 'Snack']","['Lunch', 'Dinner', 'Snack']",100g,68,2.1,12.8,1.9,light
+Khichdi,grain,"['Breakfast', 'Lunch', 'Dinner']","['Breakfast', 'Lunch', 'Dinner']",100g,130,4.5,25.0,2.1,moderate
+Poha,grain,"['Breakfast', 'Lunch', 'Dinner']","['Breakfast', 'Lunch', 'Dinner']",100g,180,4.2,35.0,3.5,moderate
+Upma,grain,"['Breakfast', 'Lunch', 'Dinner']","['Breakfast', 'Lunch', 'Dinner']",100g,170,5.1,30.0,3.8,moderate
+Idli,grain,"['Breakfast', 'Lunch', 'Dinner']","['Breakfast', 'Lunch', 'Dinner']",100g,39,1.6,8.2,0.4,light
+Dosa,grain,"['Breakfast', 'Lunch', 'Dinner']","['Breakfast', 'Lunch', 'Dinner']",100g,133,3.9,25.0,2.7,moderate
+Sambar,other,"['Breakfast', 'Lunch', 'Dinner', 'Snack']","['Breakfast', 'Lunch', 'Dinner', 'Snack']",100g,75,3.2,13.0,1.1,light
+Rasam,other,"['Breakfast', 'Lunch', 'Dinner', 'Snack']","['Breakfast', 'Lunch', 'Dinner', 'Snack']",100g,45,2.1,8.5,0.8,light
+Mango,fruit,"['Breakfast', 'Snack']","['Breakfast', 'Snack']",1 piece,60,0.8,15.0,0.4,light
+Guava,fruit,"['Breakfast', 'Snack']","['Breakfast', 'Snack']",1 piece,68,2.6,16.3,1.0,light
+Papaya,fruit,"['Breakfast', 'Snack']","['Breakfast', 'Snack']",1 piece,43,0.5,11.0,0.3,light
+Banana Raw,fruit,"['Breakfast', 'Snack']","['Breakfast', 'Snack']",1 piece,89,1.1,23.0,0.3,light
+Litchi,fruit,"['Breakfast', 'Snack']","['Breakfast', 'Snack']",1 piece,66,0.8,16.5,0.4,light
+Pomegranate,fruit,"['Breakfast', 'Snack']","['Breakfast', 'Snack']",1 piece,83,1.7,18.7,1.2,light
+Coconut,fruit,"['Breakfast', 'Snack']","['Breakfast', 'Snack']",1 piece,354,3.3,15.2,33.5,heavy
+Jaggery,other,"['Breakfast', 'Lunch', 'Dinner', 'Snack']","['Breakfast', 'Lunch', 'Dinner', 'Snack']",100g,383,0.4,95.0,0.1,heavy
+Ghee,other,"['Breakfast', 'Lunch', 'Dinner', 'Snack']","['Breakfast', 'Lunch', 'Dinner', 'Snack']",100g,112,0.0,0.0,12.7,moderate
+Curd,other,"['Breakfast', 'Lunch', 'Dinner', 'Snack']","['Breakfast', 'Lunch', 'Dinner', 'Snack']",250ml,61,3.4,4.6,4.0,light
+Lassi,other,"['Breakfast', 'Lunch', 'Dinner', 'Snack']","['Breakfast', 'Lunch', 'Dinner', 'Snack']",250ml,62,3.5,7.8,1.8,light
+Masala Chai,liquid,"['Breakfast', 'Snack']","['Breakfast', 'Snack']",250ml,45,1.2,8.5,1.5,light
+Pakora,other,"['Breakfast', 'Lunch', 'Dinner', 'Snack']","['Breakfast', 'Lunch', 'Dinner', 'Snack']",1 piece,180,4.5,20.0,8.5,moderate
+Samosa,other,"['Breakfast', 'Lunch', 'Dinner', 'Snack']","['Breakfast', 'Lunch', 'Dinner', 'Snack']",1 piece,262,4.1,29.0,14.2,moderate
+Pear,fruit,"['Breakfast', 'Snack']","['Breakfast', 'Snack']",1 piece,57,0.4,15.2,0.1,light
+Pineapple,fruit,"['Breakfast', 'Snack']","['Breakfast', 'Snack']",100g,50,0.5,13.1,0.1,light
+Watermelon,fruit,"['Breakfast', 'Snack']","['Breakfast', 'Snack']",100g,30,0.6,7.6,0.2,light
+Kiwi,fruit,"['Breakfast', 'Snack']","['Breakfast', 'Snack']",1 piece,42,0.8,10.1,0.4,light
+Lemon,fruit,"['Breakfast', 'Snack']","['Breakfast', 'Snack']",1 piece,29,1.1,9.3,0.3,light
+Peach,fruit,"['Breakfast', 'Snack']","['Breakfast', 'Snack']",1 piece,39,0.9,9.5,0.3,light
+Plum,fruit,"['Breakfast', 'Snack']","['Breakfast', 'Snack']",1 piece,46,0.7,11.4,0.3,light
+Cherry,fruit,"['Breakfast', 'Snack']","['Breakfast', 'Snack']",100g,50,1.0,12.8,0.3,light
+Apricot,fruit,"['Breakfast', 'Snack']","['Breakfast', 'Snack']",1 piece,48,1.4,11.1,0.4,light
+Fig,fruit,"['Breakfast', 'Snack']","['Breakfast', 'Snack']",1 piece,74,0.8,19.2,0.3,light
+Dates,fruit,"['Breakfast', 'Snack']","['Breakfast', 'Snack']",1 piece,282,2.5,75.0,0.4,moderate
+Raisins,fruit,"['Breakfast', 'Snack']","['Breakfast', 'Snack']",100g,299,3.1,79.0,0.5,moderate
+Walnuts,other,"['Breakfast', 'Lunch', 'Dinner', 'Snack']","['Breakfast', 'Lunch', 'Dinner', 'Snack']",100g,654,15.2,13.7,65.2,heavy
+Pistachios,other,"['Breakfast', 'Lunch', 'Dinner', 'Snack']","['Breakfast', 'Lunch', 'Dinner', 'Snack']",100g,562,20.2,27.2,45.3,heavy
+Cashews,other,"['Breakfast', 'Lunch', 'Dinner', 'Snack']","['Breakfast', 'Lunch', 'Dinner', 'Snack']",100g,553,18.2,30.2,43.8,heavy
+Hazelnuts,other,"['Breakfast', 'Lunch', 'Dinner', 'Snack']","['Breakfast', 'Lunch', 'Dinner', 'Snack']",100g,628,14.1,16.7,60.8,heavy
+Brazil Nuts,other,"['Breakfast', 'Lunch', 'Dinner', 'Snack']","['Breakfast', 'Lunch', 'Dinner', 'Snack']",100g,656,14.3,12.3,67.1,heavy
+Macadamia Nuts,other,"['Breakfast', 'Lunch', 'Dinner', 'Snack']","['Breakfast', 'Lunch', 'Dinner', 'Snack']",100g,718,7.9,13.8,75.8,heavy
+Pecans,other,"['Breakfast', 'Lunch', 'Dinner', 'Snack']","['Breakfast', 'Lunch', 'Dinner', 'Snack']",100g,691,9.2,13.9,72.0,heavy
+Turkey Breast,other,"['Breakfast', 'Lunch', 'Dinner', 'Snack']","['Breakfast', 'Lunch', 'Dinner', 'Snack']",100g,135,30.1,0.0,1.0,moderate
+Duck Breast,other,"['Breakfast', 'Lunch', 'Dinner', 'Snack']","['Breakfast', 'Lunch', 'Dinner', 'Snack']",100g,135,19.8,0.0,4.3,moderate
+Lamb,other,"['Breakfast', 'Lunch', 'Dinner', 'Snack']","['Breakfast', 'Lunch', 'Dinner', 'Snack']",100g,294,25.6,0.0,20.9,moderate
+Pork Tenderloin,other,"['Breakfast', 'Lunch', 'Dinner', 'Snack']","['Breakfast', 'Lunch', 'Dinner', 'Snack']",100g,143,26.2,0.0,3.5,moderate
+Shrimp,other,"['Breakfast', 'Lunch', 'Dinner', 'Snack']","['Breakfast', 'Lunch', 'Dinner', 'Snack']",100g,99,20.4,0.3,0.3,light
+Lobster,other,"['Breakfast', 'Lunch', 'Dinner', 'Snack']","['Breakfast', 'Lunch', 'Dinner', 'Snack']",100g,89,19.0,0.6,0.9,light
+Crab,other,"['Breakfast', 'Lunch', 'Dinner', 'Snack']","['Breakfast', 'Lunch', 'Dinner', 'Snack']",100g,97,20.2,0.0,1.1,light
+Cod,other,"['Breakfast', 'Lunch', 'Dinner', 'Snack']","['Breakfast', 'Lunch', 'Dinner', 'Snack']",100g,82,18.0,0.0,0.7,light
+Tilapia,other,"['Breakfast', 'Lunch', 'Dinner', 'Snack']","['Breakfast', 'Lunch', 'Dinner', 'Snack']",100g,96,20.1,0.0,1.7,light
+Mahi Mahi,other,"['Breakfast', 'Lunch', 'Dinner', 'Snack']","['Breakfast', 'Lunch', 'Dinner', 'Snack']",100g,85,18.2,0.0,0.7,light
+Swordfish,other,"['Breakfast', 'Lunch', 'Dinner', 'Snack']","['Breakfast', 'Lunch', 'Dinner', 'Snack']",100g,144,23.5,0.0,6.7,moderate
+Mackerel,other,"['Breakfast', 'Lunch', 'Dinner', 'Snack']","['Breakfast', 'Lunch', 'Dinner', 'Snack']",100g,205,23.8,0.0,13.9,moderate
+Sardines,other,"['Breakfast', 'Lunch', 'Dinner', 'Snack']","['Breakfast', 'Lunch', 'Dinner', 'Snack']",100g,208,24.6,0.0,11.5,moderate
+Anchovies,other,"['Breakfast', 'Lunch', 'Dinner', 'Snack']","['Breakfast', 'Lunch', 'Dinner', 'Snack']",100g,131,28.9,0.0,4.8,moderate
+Zucchini,veg,"['Lunch', 'Dinner', 'Snack']","['Lunch', 'Dinner', 'Snack']",100g,17,1.2,3.1,0.3,light
+Eggplant,veg,"['Lunch', 'Dinner', 'Snack']","['Lunch', 'Dinner', 'Snack']",100g,25,1.0,5.9,0.2,light
+Mushroom,veg,"['Lunch', 'Dinner', 'Snack']","['Lunch', 'Dinner', 'Snack']",100g,22,3.1,3.3,0.3,light
+Cauliflower,veg,"['Lunch', 'Dinner', 'Snack']","['Lunch', 'Dinner', 'Snack']",100g,25,1.9,5.0,0.3,light
+Asparagus,veg,"['Lunch', 'Dinner', 'Snack']","['Lunch', 'Dinner', 'Snack']",100g,20,2.2,3.9,0.1,light
+Green Beans,veg,"['Lunch', 'Dinner', 'Snack']","['Lunch', 'Dinner', 'Snack']",100g,31,1.8,7.0,0.2,light
+Peas,veg,"['Lunch', 'Dinner', 'Snack']","['Lunch', 'Dinner', 'Snack']",100g,81,5.4,14.5,0.4,light
+Biryani,grain,"['Breakfast', 'Lunch', 'Dinner']","['Breakfast', 'Lunch', 'Dinner']",100g,150,4.0,25.0,5.0,moderate
+Naan,grain,"['Breakfast', 'Lunch', 'Dinner']","['Breakfast', 'Lunch', 'Dinner']",1 piece,300,8.0,50.0,7.0,moderate
+Pizza,grain,"['Breakfast', 'Lunch', 'Dinner']","['Breakfast', 'Lunch', 'Dinner']",1 piece,250,10.0,30.0,10.0,moderate
+Burger,other,"['Breakfast', 'Lunch', 'Dinner', 'Snack']","['Breakfast', 'Lunch', 'Dinner', 'Snack']",1 piece,500,25.0,40.0,25.0,heavy
+Chole,other,"['Breakfast', 'Lunch', 'Dinner', 'Snack']","['Breakfast', 'Lunch', 'Dinner', 'Snack']",100g,180,8.0,25.0,6.0,moderate
+Paratha,grain,"['Breakfast', 'Lunch', 'Dinner']","['Breakfast', 'Lunch', 'Dinner']",1 piece,250,6.0,35.0,10.0,moderate
+Sushi,other,"['Breakfast', 'Lunch', 'Dinner', 'Snack']","['Breakfast', 'Lunch', 'Dinner', 'Snack']",1 piece,200,10.0,30.0,5.0,moderate
+Pasta Alfredo,grain,"['Breakfast', 'Lunch', 'Dinner']","['Breakfast', 'Lunch', 'Dinner']",100g,400,15.0,50.0,15.0,heavy
+Salad,veg,"['Lunch', 'Dinner', 'Snack']","['Lunch', 'Dinner', 'Snack']",100g,50,2.0,10.0,1.0,light
+Smoothie,liquid,"['Breakfast', 'Snack']","['Breakfast', 'Snack']",250ml,150,5.0,25.0,2.0,moderate
+Falafel,other,"['Breakfast', 'Lunch', 'Dinner', 'Snack']","['Breakfast', 'Lunch', 'Dinner', 'Snack']",1 piece,330,13.0,31.0,18.0,heavy
+Hummus,other,"['Breakfast', 'Lunch', 'Dinner', 'Snack']","['Breakfast', 'Lunch', 'Dinner', 'Snack']",100g,166,8.0,14.0,10.0,moderate
+Tacos,other,"['Breakfast', 'Lunch', 'Dinner', 'Snack']","['Breakfast', 'Lunch', 'Dinner', 'Snack']",1 piece,200,10.0,20.0,8.0,moderate
+Enchiladas,grain,"['Breakfast', 'Lunch', 'Dinner']","['Breakfast', 'Lunch', 'Dinner']",1 piece,300,15.0,30.0,12.0,moderate
+Kimchi,veg,"['Lunch', 'Dinner', 'Snack']","['Lunch', 'Dinner', 'Snack']",100g,30,2.0,6.0,0.0,light
+Ramen,grain,"['Breakfast', 'Lunch', 'Dinner']","['Breakfast', 'Lunch', 'Dinner']",100g,400,12.0,50.0,15.0,heavy
+Pad Thai,grain,"['Breakfast', 'Lunch', 'Dinner']","['Breakfast', 'Lunch', 'Dinner']",100g,350,15.0,45.0,12.0,heavy
+Falooda,liquid,"['Breakfast', 'Snack']","['Breakfast', 'Snack']",250ml,250,5.0,40.0,8.0,moderate
+Dhokla,grain,"['Breakfast', 'Lunch', 'Dinner']","['Breakfast', 'Lunch', 'Dinner']",1 piece,120,4.0,20.0,3.0,moderate
+Misal Pav,other,"['Breakfast', 'Lunch', 'Dinner', 'Snack']","['Breakfast', 'Lunch', 'Dinner', 'Snack']",100g,300,12.0,45.0,8.0,moderate
